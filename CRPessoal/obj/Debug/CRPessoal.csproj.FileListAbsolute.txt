@@ -1,0 +1,12 @@
+c:\users\tonhus\documents\visual studio 2015\Projects\CRPessoal\CRPessoal\bin\Debug\CRPessoal.exe.config
+c:\users\tonhus\documents\visual studio 2015\Projects\CRPessoal\CRPessoal\bin\Debug\BaseDados.mdf
+c:\users\tonhus\documents\visual studio 2015\Projects\CRPessoal\CRPessoal\bin\Debug\BaseDados_log.ldf
+c:\users\tonhus\documents\visual studio 2015\Projects\CRPessoal\CRPessoal\bin\Debug\CRPessoal.exe
+c:\users\tonhus\documents\visual studio 2015\Projects\CRPessoal\CRPessoal\bin\Debug\CRPessoal.pdb
+c:\users\tonhus\documents\visual studio 2015\Projects\CRPessoal\CRPessoal\obj\Debug\CRPessoal.csprojResolveAssemblyReference.cache
+c:\users\tonhus\documents\visual studio 2015\Projects\CRPessoal\CRPessoal\obj\Debug\CRPessoal.Form1.resources
+c:\users\tonhus\documents\visual studio 2015\Projects\CRPessoal\CRPessoal\obj\Debug\CRPessoal.Properties.Resources.resources
+c:\users\tonhus\documents\visual studio 2015\Projects\CRPessoal\CRPessoal\obj\Debug\CRPessoal.csproj.GenerateResource.Cache
+c:\users\tonhus\documents\visual studio 2015\Projects\CRPessoal\CRPessoal\obj\Debug\CRPessoal.exe
+c:\users\tonhus\documents\visual studio 2015\Projects\CRPessoal\CRPessoal\obj\Debug\CRPessoal.pdb
+C:\Users\Tonhus\documents\visual studio 2015\Projects\CRPessoal\CRPessoal\obj\Debug\CRPessoal.Deposito.resources
